@@ -1,0 +1,28 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Thursday, June 24, 2021
+Project Path:       D:\Documents\Design Spark\000000's\PCB000042r1\PCB000042r1.prj
+Design Path:        D:\Documents\Design Spark\000000's\PCB000042r1\PCB000042r1.pcb
+Design Title:       
+Created:            25/05/2021 19:34:24
+Last Saved:         24/06/2021 20:44:52
+Editing Time:       335 min
+Units:              mm (precision 2)
+
+Added net "N0106".
+Added net "N0107".
+
+Added component reference "LED2" of component "KP-2012EC", package "LEDC2012X110N".
+Added component reference "R22" of component "CRCW0603150RFKTA", package "RESC1608X50N".
+Added value "Value=150R 1%" to component reference "R22".
+Added value "Package=0603" to component reference "R22".
+
+Connected pin "U1.26" to net "N0106".
+Connected pin "LED2.1" to net "N0107".
+Connected pin "LED2.2" to net "N0106".
+Connected pin "R22.1" to net "N0107".
+Connected pin "R22.2" to net "0V".
+
+
+End Of Report.

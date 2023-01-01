@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     Friday, June 25, 2021
+Project Path:       D:\Documents\Design Spark\000000's\PCB000042r1\PCB000042r1.prj
+Design Path:        D:\Documents\Design Spark\000000's\PCB000042r1\PCB000042r1.pcb
+Design Title:       
+Created:            25/05/2021 19:34:24
+Last Saved:         25/06/2021 18:57:42
+Editing Time:       444 min
+Units:              mm (precision 2)
+
+
+End Of Report.

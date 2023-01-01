@@ -1,0 +1,19 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Saturday, September 07, 2019
+Project Path:       D:\Documents\Design Spark\000000's\PCB000032r1\PCB000032r1.prj
+Design Path:        D:\Documents\Design Spark\000000's\PCB000032r1\PCB000032r1.pcb
+Design Title:       
+Created:            07/09/2019 17:56:36
+Last Saved:         07/09/2019 18:29:10
+Editing Time:       32 min
+Units:              mm (precision 2)
+
+Added component reference "P19" of component "PAD_D6.4_H3.2MM", package "MISC".
+Added component reference "P20" of component "PAD_D6.4_H3.2MM", package "MISC".
+Added component reference "P21" of component "PAD_D6.4_H3.2MM", package "MISC".
+Added component reference "P22" of component "PAD_D6.4_H3.2MM", package "MISC".
+
+
+End Of Report.
