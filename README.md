@@ -5,3 +5,6 @@ It then transmits that data as a 50 byte packet using the LoRa transmitter modul
 The data is received by the LoRa receiver on the Raspberry pi.
 All calibration is done at the receiver end.
 This does NOT use LoRaWAN.
+Schematic and PCB are designed using Design Spark.
+Enclosure was designed using Fusion 360.
+Software was written in C using MPLab X with XC8 compiler.
